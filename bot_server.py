@@ -5,7 +5,7 @@ import random
 
 
 BOT_PREFIX = ("mestre ","Mestre ")
-BOT_TOKEN = "NjAzNDUxNzc0MzA4NzEyNDU5.XTlpfw.0zi8WXv3mMLuamvXzDVPhUZ99oc"
+BOT_TOKEN = "NjAzNDUxNzc0MzA4NzEyNDU5.XTlqgw.13dbue0YOmR2FxrDZa9UBpPsD8o"
 
 client = Bot(command_prefix=BOT_PREFIX)
 
